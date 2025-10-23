@@ -1,0 +1,13 @@
+export {default as Partner01} from "./partner-01.jpeg";
+export {default as Partner02} from "./partner-02.jpeg";
+export {default as Partner03} from "./partner-03.jpeg";
+export {default as Partner04} from "./partner-04.jpeg";
+export {default as Partner05} from "./partner-05.jpeg";
+export {default as Partner06} from "./partner-06.jpeg";
+export {default as Partner07} from "./partner-07.jpeg";
+export {default as Partner08} from "./partner-08.jpeg";
+export {default as Partner09} from "./partner-09.jpeg";
+export {default as Partner10} from "./partner-10.jpeg";
+export {default as Partner11} from "./partner-11.jpeg";
+export {default as Partner12} from "./partner-12.jpeg";
+export {default as Partner13} from "./partner-13.png";
